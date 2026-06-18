@@ -43,7 +43,7 @@ class Project extends HXProject
   /**
    * The game's name. Used as the default window title.
    */
-  static final TITLE:String = "Friday Night Funkin'";
+  static final TITLE:String = "Sonic Night Funkin' Plus";
 
   /**
    * The game's name on mobile. Used as the title for the game on the home screen.
@@ -59,7 +59,7 @@ class Project extends HXProject
    * The name of the generated executable file.
    * For example, `"Funkin"` will create a file called `Funkin.exe`.
    */
-  static final EXECUTABLE_NAME:String = "Funkin";
+  static final EXECUTABLE_NAME:String = "SNFPLUS";
 
   /**
    * The relative location of the source code.
@@ -87,7 +87,7 @@ class Project extends HXProject
    * The company name for the game.
    * This appears in metadata in places I think.
    */
-  static final COMPANY:String = "The Funkin' Crew";
+  static final COMPANY:String = "The SNF Team";
 
   /**
    * The app's localization languages.

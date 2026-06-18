@@ -675,12 +675,12 @@ class Constants
   /**
    * The path where our save data will be stored.
    */
-  public inline static final SAVE_PATH:String = 'FunkinCrew';
+  public inline static final SAVE_PATH:String = 'SNF Team';
 
   /**
    * The name of our save slot.
    */
-  public inline static final SAVE_NAME:String = 'Funkin';
+  public inline static final SAVE_NAME:String = 'SNFPlus';
 
   /**
    * The legacy path where our save data was saved. Used for backwards compatibility.
